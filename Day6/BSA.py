@@ -1,3 +1,6 @@
+#Day 6 Project: Explore Binary Search with Python and Tkinter! 
+#🚀 Create a sorted list, enter a number, and find out if it's present
+
 import tkinter as tk
 
 def binary_search():
